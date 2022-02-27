@@ -28,6 +28,7 @@
 # API documentation
 
 1. Admin list all events
+
     endpoint = http://127.0.0.1:8000/events/
     method = GET
     authorization = Basic authorization
